@@ -2,7 +2,7 @@ import React from "react";
 
 function Titles() {
   return (
-    <div className="max-w-[259px] grid gap-6">
+    <div className="max-w-[259px] md:text-center md:max-w-none grid gap-4">
       <h1
         style={{ lineHeight: "37.5px" }}
         className="text-[32px] font-semibold"
